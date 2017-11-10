@@ -1,7 +1,8 @@
 let accessToken = null;
 let expiresIn = '';
 const clientId = 'e882f0bd7eb24cb5ba6df7e847befbdc';
-const redirectURI = 'http://boonkgangwholelottagang.surge.sh';
+//const redirectURI = 'http://boonkgangwholelottagang.surge.sh';
+const redirectURI = 'http://localhost:3000/';
 //const clientSecret = 'f21823dd418a4d8f8ad67d6854c57144';
 
 export const Spotify = {
