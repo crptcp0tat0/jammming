@@ -14,7 +14,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 │   ├── 📂 [SearchResults](./src/Components/SearchResults)  
 │   ├── 📂 [Track](./src/Components/Track)  
 │   ├── 📂 [TrackList](./src/Components/TrackList)  
-├── 📂 [util](./src/util)  
+├── 📂 [util](./src/util)
 
 ## Table of Contents
 
